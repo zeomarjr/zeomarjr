@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabriel Gemente! 👋
+### Olá, eu sou o José Omar! 👋
 
 - 🧑‍💻 Hoje trabalho com desenvolvimento web e mobile.
 - ⚛️ Estudando HTML e JavaScript .
