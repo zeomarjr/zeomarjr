@@ -1,8 +1,8 @@
 ### Olá, eu sou o José Omar! 👋
 
-- 🧑‍💻 Hoje trabalho com desenvolvimento web e mobile.
-- ⚛️ Estudando HTML e JavaScript .
-- 📫 Entre em contato por aqui: "zeomar_jr@gmail.com".
+- 🧑‍💻 Técnico em Desenvolvimento de Sistemas.
+- ⚛️ Estudando HTML, CSS e JavaScript .
+- 📫 Entre em contato por aqui: "zeomar_jr@hotmail.com".
 
 
 <div align="center">
@@ -22,7 +22,7 @@
  
 <div> 
 
-  <a href = "mailto:zeomar_jr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:zeomar_jr@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
